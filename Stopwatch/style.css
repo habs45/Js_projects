@@ -1,0 +1,54 @@
+body{
+
+background-color: orange;
+
+}
+#main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+justify-content: center;
+
+}
+
+h1{
+
+color: white;
+font-size: 70px;
+font-weight: 400;
+
+}
+
+p{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+justify-content: center;
+font-size: 70px;
+font-weight: 400;
+color: white;
+}
+
+button{
+border: 2px solid white;
+background-color: orange;
+border-radius: 6px;
+    padding: 20px 30px;
+    font-size: 40px;
+    color: white;
+    margin: auto;
+    width: 170px;
+    margin-right: 60px;
+    cursor: pointer;
+    
+}
+
+#Stop{
+margin-left: 60px;
+
+}
+#Reset{
+    margin-left: 60px;
+}
+#container{
+margin:auto;
+   
+}

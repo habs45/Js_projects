@@ -1,0 +1,76 @@
+/* body{
+
+background-image: url('tic.jpg');
+opacity: 0.1;
+} */
+h1{
+
+    font-size: 45px;
+    color: orangered;
+}
+#main{
+    text-align: center;
+    
+
+}
+
+#ins{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: dodgerblue;
+    font-size: 17px;
+
+}
+
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9 {
+cursor: pointer;
+width: 60px;
+height: 60px;
+margin: auto;
+border: 1px solid gray;
+border-radius: 6px;
+font-size: 30px;
+text-align: center;
+background-color: white;
+}
+#undo{
+    box-sizing: border-box;
+    height: 40px;
+    width: 95px;
+    border: 1px solid dodgerblue;
+   margin: auto;
+border-radius: 4px;   
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: dodgerblue;
+}
+
+#but{
+   box-sizing: border-box;
+    height: 40px;
+    width: 95px;
+    border: 1px solid dodgerblue;
+   margin: auto;
+border-radius: 4px;   
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: dodgerblue;
+
+
+}
+
+#print{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: dodgerblue;
+    font-size: 25px;
+
+
+}
+
+#ask{
+    
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: dodgerblue;
+    font-size: 20px;
+
+}
